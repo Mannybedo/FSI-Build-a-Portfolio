@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(170, 211, 191);
+    font-family: 'Courier New', Courier, monospace;
+    cursor: grab;
+
+
+}
+
+#code-image {
+    border-radius: 25px;
+    border: 20px solid rgb(38, 157, 129);
+    height: 30%;
+    width: 30%;
+}
+
+.Header-center {
+    text-align: center;
+}
